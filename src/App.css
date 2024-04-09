@@ -1,0 +1,17 @@
+.postContainer {
+    display: flex;
+    flex-direction:  column;
+    gap: 15px;
+}
+
+.post {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.postHeader {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
